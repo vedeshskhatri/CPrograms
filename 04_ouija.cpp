@@ -1,6 +1,3 @@
-// Ouija Board 👻
-// Codédex
-
 #include <iostream> 
 
 int main() {
