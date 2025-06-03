@@ -1,6 +1,3 @@
-// Sign Bunny 🐰
-// Codédex
-
 #include <iostream> 
 
 int main() {
