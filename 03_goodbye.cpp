@@ -1,6 +1,3 @@
-// Goodbye ✌️
-// Codédex
-
 #include <iostream> 
 
 int main() {
